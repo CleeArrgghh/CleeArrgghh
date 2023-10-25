@@ -1,7 +1,6 @@
 - 👋 Hi, I'm @CleeArrgghh, currently a student from La Salle University. I'm passionate about creating website and enjoy working on projects that involve with HTML,CSS,JS,C#, and Python.
 - 👀 I’m interested in Front End Developing. 
 - 💞️ I’m looking to collaborate on the languages with C# or Python.
-- 📫 How to reach me: https://www.facebook.com/iamcleearr
 
 ## 🔭 I’m currently working on
 https://github.com/CleeArrgghh/judging
