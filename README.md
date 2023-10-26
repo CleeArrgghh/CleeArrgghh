@@ -24,5 +24,11 @@ https://github.com/CleeArrgghh/judging
 ## 💬 Ask me about
 - Web Developing
 
-<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" height="250" width="400" alt="animated pic"> </div>
+<div align="left"> <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" height="250" width="400" alt="animated pic"> 
+/div>
+
+<div align="center" >
+ 
 ![CleeArrgghh GitHub stats](https://github-readme-stats.vercel.app/api?username=CleeArrgghh&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue-dark)
+
+</div>
