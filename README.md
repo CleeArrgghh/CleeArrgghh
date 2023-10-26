@@ -1,10 +1,15 @@
 <div align="center">
- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="1000" height="400" alt="animated hello"> <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="auto" height="auto" alt="animated hello"> 
+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="1000" height="400" alt="animated hello"> 
+ <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="420" height="410" alt="animated hello"> 
 </div>
 
+<div align="justify">
+ 
 - 👋 Hi, I'm @CleeArrgghh, currently a student from La Salle University. I'm passionate about creating website and enjoy working on projects that involve with HTML,CSS,JS,C#, and Python.
 - 👀 I’m interested in Front End Developing. 
 - 💞️ I’m looking to collaborate on the languages with C# or Python.
+  
+</div>
 
 ## 🔭 I’m currently working on
 https://github.com/CleeArrgghh/judging
@@ -24,10 +29,9 @@ https://github.com/CleeArrgghh/judging
 - Web Developing
 
 <div align="left"> <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" height="250" width="400" alt="animated pic"> 
-/div>
 
-<div align="center" >
+<div align="center">
  
 ![CleeArrgghh GitHub stats](https://github-readme-stats.vercel.app/api?username=CleeArrgghh&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue-dark)
 
-</div>
+
