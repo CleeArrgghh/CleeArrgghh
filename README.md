@@ -21,9 +21,14 @@ https://github.com/CleeArrgghh/judging
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"> <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" height="100" width="160">
 
 ## 📫 How to reach me
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png"> cleearr.canillas@lsu.edu.ph
-<img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif"> https://www.facebook.com/iamcleearr
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif">  https://www.linkedin.com/in/clee-arr-canillas-bbaa7427b
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png"  width="120" height="120"> <p><a href="mailto:cleearr.canillas@lsu.edu.ph">cleearr.canillas@lsu.edu.ph</a></p> 
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif"  width="120" height="120"> <p> https://www.facebook.com/iamcleearr</p>
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"  width="120" height="120">  <p> https://www.linkedin.com/in/clee-arr-canillas-bbaa7427b </p>
+</div>
 
 ## 💬 Ask me about
 - Web Developing
