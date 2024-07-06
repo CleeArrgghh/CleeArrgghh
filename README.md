@@ -38,7 +38,7 @@
 ## 📫 How to reach me
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png"  width="120" height="120"> <p><a href="mailto:cleearr.canillas@lsu.edu.ph">cleearr.canillas@lsu.edu.ph</a></p> 
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png"  width="120" height="120"> <p><a href="mailto:cleearr.canillas@lsu.edu.ph">cleearr.canillas@lsu.edu.ph</a></p> <p><a href="mailto:iamcleearr@gmail.com">iamcleearr@gmail.com</a></p> 
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif"  width="120" height="120"> <p> https://www.facebook.com/iamcleearr</p>
 <br>
