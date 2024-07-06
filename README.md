@@ -5,7 +5,7 @@
 
 <div align="justify">
  
-- 👋 Hi, I'm @CleeArrgghh, currently a student from La Salle University. I'm passionate about creating website and enjoy working on projects that involve with HTML,CSS,JS,C#, and Python.
+- 👋 Hi, I'm @CleeArrgghh. I'm passionate about creating website and enjoy working on projects that involve with HTML,CSS,JS,C#, and Python.
 - 👀 I’m interested in Front End Developing. 
 - 💞️ I’m looking to collaborate on the languages with C# or Python.
   
